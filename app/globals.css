@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+ @import url('https://fonts.googleapis.com/css2?family=Changa:wght@600&display=swap');
+
 html,
 body {
   direction: rtl;
@@ -18,4 +20,8 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.Changa{
+          font-family: 'Changa', sans-serif;
 }
